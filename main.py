@@ -9,7 +9,7 @@ token = os.environ['VK_TOKEN']
 vk = vk_api.VkApi(token=token)
 api = vk.get_api()
 
-user = [186003041, 288925718]
+user = [186003041, 187419279, 288925718]
 
 
 def parse():
